@@ -139,7 +139,6 @@ void evaluar2();
 int main ()
 {
 
-    sumaMultiplos(10);
     //Funcion evaluadora parte 1
     cout<<"Evaluador parte 1"<<endl<<"================="<<endl;
     evaluar();
